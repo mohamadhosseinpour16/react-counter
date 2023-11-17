@@ -9,7 +9,7 @@ export default function Count() {
       <div className={classes.secondary}>
         <button className={classes.secondary__buttons}>ADD</button>
         <button className={classes.secondary__buttons}>MINUS</button>
-        <button className={classes.secondary__buttons}>Add when Odd</button>
+        <button className={classes.secondary__buttons}>ADD when ODD</button>
       </div>
     </section>
   );

@@ -37,4 +37,10 @@
   font-weight: 900;
   background-color: white;
   cursor: pointer;
+  transition: 0.5s;
+}
+.secondary__buttons:hover{
+  color: white;
+  background-color: #2e424d;
+  transition: 0.5s;
 }

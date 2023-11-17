@@ -1,0 +1,40 @@
+.primary {
+  background-color: #5b8291;
+  width: 35%;
+  margin: 2rem auto;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  box-shadow: rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.primary__h1{
+    margin: 0.5rem 0;
+    font-size: 2rem;
+}
+.primary__h2{
+    margin: 0.5rem 0;
+    font-size: 1.7rem;
+}
+.primary__span{
+    border-bottom: 1px solid black;
+}
+.secondary {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 1rem 0;
+}
+.secondary__buttons {
+  padding: 0.5rem 1.5rem;
+  margin: 0.5rem;
+  border: none;
+  outline: none;
+  border-radius: 0.3rem;
+  font-size: 1rem;
+  font-weight: 900;
+  background-color: white;
+  cursor: pointer;
+}
